@@ -15,9 +15,9 @@ Die Arbeit ordnet das Thema in den Kontext von Informationsasymmetrien und Markt
 ## Forschungsziel
 Ziel der Arbeit ist es, die ökonomischen Anreize und Rahmenbedingungen zu analysieren, die zur Entstehung von Greenwashing führen.  
 Dabei wird insbesondere untersucht:
-* warum Unternehmen Greenwashing als strategisches Instrument einsetzen  
-* welche Rolle Informationsasymmetrien zwischen Unternehmen und Stakeholder:innen spielen  
-* welche Auswirkungen Greenwashing auf Markttransparenz und Wohlfahrt hat 
+* Warum Unternehmen Greenwashing als strategisches Instrument einsetzen  
+* Welche Rolle Informationsasymmetrien zwischen Unternehmen und Stakeholder:innen spielen  
+* Welche Auswirkungen Greenwashing auf Markttransparenz und Wohlfahrt hat 
 
 ## Inhalt
 Dieses Repository enthält:
